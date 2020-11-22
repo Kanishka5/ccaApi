@@ -1,0 +1,8 @@
+Django
+django-filter
+django-widget-tweaks
+djangorestframework
+Pillow
+xlwt
+python-dotenv
+psycopg2-binary
